@@ -1,0 +1,2202 @@
+{"selectedCandidates": [
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Peter Jenkins",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Olivia Gonzalez",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Benjamin Owens",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Janet Gray",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joyce Owens",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ashley Taylor",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Alexander Ross",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Steven Cook",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Timothy Thomas",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "David Gibson",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Adam Mitchell",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Gary Davis",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Megan Stewart",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emma Gonzalez",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Aaron Jenkins",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Angela Hill",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "John Moore",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Megan Lewis",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emily Stewart",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jason Lopez",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Brandon Lewis",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Alice Woods",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ruth Castillo",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Brenda Jones",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "David Barnes",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Amy King",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emma Jenkins",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kyle Graham",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jacob Jones",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kevin Ramirez",
+        "totalScore": 100
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kathleen Campbell",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Olivia Sanders",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Larry West",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Laura Marshall",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "George Anderson",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jane Ortiz",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Carolyn Webb",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Anthony Morris",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Frances Griffin",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Julie King",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Teresa Rogers",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Christine Scott",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Olivia Stewart",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Nicholas Gutierrez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joyce Rogers",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Cheryl Wallace",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Thomas Lopez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "George Gutierrez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Henry Griffin",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Cheryl Walker",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Sandra Martinez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Gregory Chavez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Charles Owens",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ruth Powell",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kelly Hill",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Shirley Hall",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Virginia Henderson",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Martha Hernandez",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Christine Nelson",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Janice Ross",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Tyler Perry",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Aaron Mcdonald",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Pamela Hall",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Victoria Jordan",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Nicole Davis",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Daniel Ellis",
+        "totalScore": 90
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "George Nguyen",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Nathan Harrison",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Jerry Cox",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Deborah Gonzales",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Joyce Howard",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Gregory Johnson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Edward Morris",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Austin James",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Pamela James",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Donna Harrison",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Anthony Castillo",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Matthew Marshall",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Christina Jenkins",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Janice King",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joseph Stevens",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Kyle Myers",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Janet Watson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Judith Foster",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Henry Morgan",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Lisa Cruz",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Heather Adams",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Roger Simmons",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Kimberly Smith",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kathryn Diaz",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Adam Howard",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Kathleen Mitchell",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Betty Collins",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Kelly Martin",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Catherine Walker",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Justin Bailey",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kevin Powell",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Amy Hamilton",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Lisa Richardson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Keith Kim",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Jason Morris",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "David Bryant",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Paul Garcia",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Dennis Baker",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Christine Bryant",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Martha Brooks",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Keith Jackson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Melissa Long",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Daniel Graham",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Linda Clark",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Linda Bryant",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Frank Peterson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jean Taylor",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jessica Patterson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Teresa Martin",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Melissa Murphy",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Brenda Myers",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joan Hill",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Lisa Robinson",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joan Gonzales",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Daniel Gray",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Anna Sanders",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Andrea Mendoza",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Karen Sanders",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Teresa Torres",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Alice Morales",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Andrew Collins",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Margaret Adams",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 0,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Nathan Alvarez",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Ashley Cruz",
+        "totalScore": 80
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Michael Richardson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Sandra Lee",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Raymond Gonzales",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jesse Sanchez",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Martha Turner",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Rebecca Sullivan",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Rachel Diaz",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Debra Anderson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Helen Kennedy",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Donald Sullivan",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Teresa Barnes",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Melissa Harrison",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Benjamin Ramos",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Stephen Alvarez",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Sandra Cox",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "John Ward",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Daniel Wallace",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Victoria Collins",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Douglas Bennett",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Sara Richardson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Noah Cox",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "David Sullivan",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Justin Long",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Tyler White",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "William Patterson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Sandra Gutierrez",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Michael Marshall",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Christine Gomez",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Angela Ramos",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Julie Harrison",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joseph Ross",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Olivia Bailey",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Anthony Reyes",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jeremy Mendoza",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jason Smith",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Shirley Wells",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Steven Young",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Evelyn Turner",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ann Taylor",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Janet Powell",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ruth Myers",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Brian Cook",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Rebecca Edwards",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Amanda Perry",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Lawrence Roberts",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Diane Coleman",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Joan Baker",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Kimberly Henderson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Charles Howard",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Samuel Griffin",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Betty Bennett",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emma Olson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emma Alexander",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Frances Ford",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Paul Sullivan",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "George Gray",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Lawrence Wells",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Emily Lee",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Rachel Hayes",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Zachary Scott",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Eric Martinez",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ryan Diaz",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Megan Nguyen",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Harold Long",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Eric Wright",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 0,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Ruth Patterson",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 0,
+            "hasAaAs": 10,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 20
+        },
+        "name": "Jose Webb",
+        "totalScore": 75
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Gerald Hill",
+        "totalScore": 70
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Larry Gonzalez",
+        "totalScore": 70
+    },
+    {
+        "scoreBreakdown": {
+            "hasAllPreReqs": 20,
+            "nonScienceGPAGreaterThan2_5": 25,
+            "hasAaAs": 0,
+            "scienceGPAGreaterThan3_0": 25,
+            "teasScoreGreaterThan62": 0
+        },
+        "name": "Ethan Bell",
+        "totalScore": 70
+    }
+]}
