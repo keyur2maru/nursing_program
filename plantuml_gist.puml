@@ -1,0 +1,37 @@
+@startuml
+!theme plain
+top to bottom direction
+skinparam linetype ortho
+
+class BinaryTree {
+  + BinaryTree():
+  ~ root: Node
+  + evaluateGPA(Node, Map<String, Boolean>): Map<String, Integer>
+}
+class Node {
+  + Node(String, int):
+  ~ left: Node
+  ~ criterion: String
+  ~ right: Node
+  ~ weight: int
+}
+class NursingSelection {
+  + NursingSelection():
+  + generateRandomName(): String
+  + main(String[]): void
+}
+class Student {
+  ~ Student(String, Map<String, Integer>):
+  ~ name: String
+  ~ scoreBreakdown: Map<String, Integer>
+  ~ totalScore: int
+}
+
+BinaryTree       "1" *-[#595959,plain]-> "root\n1" Node
+BinaryTree        +-[#820000,plain]-  NursingSelection
+Node              +-[#820000,plain]-  NursingSelection
+NursingSelection  -[#595959,dashed]->  BinaryTree       : "«create»"
+NursingSelection  -[#595959,dashed]->  Node             : "«create»"
+NursingSelection  -[#595959,dashed]->  Student          : "«create»"
+Student           +-[#820000,plain]-  NursingSelection
+@enduml
