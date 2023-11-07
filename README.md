@@ -1,6 +1,5 @@
 # nursing_program
 
 ![PlantUML model]
-(https://cdn-0.plantuml.com/plantuml/png/3SP13W8n20NGlQVG2vJ4fPUPO2MTnaB91sAylRxLkqthgrvIMDSpq-D11FwqCVEiPuMWRqknR7qhlULRk2kZo0enRHoEFS1Aof42yiMMfUiOCxBvVvSV)
-
-![Lack of integration across legacy systems](http://plantuml.com/plantuml/svg/3Sp13S8m3030LM20ndysGEB12gvh4ak97JasgDlJr_tkBaez3qxljnOnrmF0yLUgHCiz5pkP1ciKiW6VR3vGCSo1B7tnXXJobJYtsL6L7GQkk3330rvSaSxd5LJ74DEtszvvb9cZ_m40)
+(https://www.plantuml.com/plantuml/svg/5SqnZW8n34RXVa-nN22MAAdc9YEJiJ8HiHFzjeMuFKprklTj7en87N-tRdNa8OdnVqOiVn21twNrEFEPBgZJGYnAdKel-IJkoaYoX7Th-y9iO2Lb3m6jmNQDzzOzohg8JUpuzGi0)
+![Lack of integration across legacy systems](http://plantuml.com/plantuml/svg/5SqnZW8n34RXVa-nN22MAAdc9YEJiJ8HiHFzjeMuFKprklTj7en87N-tRdNa8OdnVqOiVn21twNrEFEPBgZJGYnAdKel-IJkoaYoX7Th-y9iO2Lb3m6jmNQDzzOzohg8JUpuzGi0)
