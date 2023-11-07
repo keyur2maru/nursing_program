@@ -13,7 +13,7 @@
           v-for="tab in tabs"
           :key="tab"
           :class="{'active': activeTab === tab}"
-          @click="activeTab = tab"
+          @click="setActiveTab(tab)"
         >{{ tab }} Candidates</button>
         <button class="toggle-theme" @click="toggleDarkMode">🌓 Toggle Dark/Light Mode</button>
       </div>
@@ -23,13 +23,70 @@
         <input v-model="searchQuery" type="text" placeholder="Search by name..." />
       </div>
 
+      <!-- Pagination controls -->
+      <div class="pagination-controls">
+        <button 
+          v-if="currentPageSet > 0" 
+          @click="changePageSet(-1)"
+        >«</button>
+        <button 
+          v-if="currentPage > 1" 
+          @click="changePage(currentPage - 1)"
+        >‹</button>
+        <button
+          v-for="page in visiblePages"
+          :key="page"
+          :class="{ 'active': currentPage === page }"
+          @click="changePage(page)"
+        >{{ page }}</button>
+
+        <!-- Only show this button if the next page is available -->
+        <button 
+          @click="changePage(currentPage + 1)" 
+          :disabled="currentPage === totalPages"
+          v-if="currentPage < totalPages"
+        >›</button>
+
+        <!-- Only show this button if the next set of pages is available -->
+        <button 
+          @click="changePageSet(1)" 
+          :disabled="currentPageSet >= pageSetLimit"
+          v-if="currentPageSet < pageSetLimit"
+        >»</button>
+      </div>
+
       <!-- Candidates list based on active tab -->
       <div class="candidates">
         <CandidateTable
-          :candidates="sortedCandidates"
+          :candidates="paginatedCandidates"
           :sortOptions="{ currentSort, currentSortDir }"
           @sort="handleSort"
         />
+      </div>
+      <!-- Pagination controls -->
+      <div class="pagination-controls">
+        <button @click="changePageSet(-1)" :disabled="currentPageSet === 0">«</button>
+        <button @click="changePage(currentPage - 1)" :disabled="currentPage === 1">‹</button>
+        <button
+          v-for="page in visiblePages"
+          :key="page"
+          :class="{ 'active': currentPage === page }"
+          @click="changePage(page)"
+        >{{ page }}</button>
+
+        <!-- Only show this button if the next page is available -->
+        <button 
+          @click="changePage(currentPage + 1)" 
+          :disabled="currentPage === totalPages"
+          v-if="currentPage < totalPages"
+        >›</button>
+
+        <!-- Only show this button if the next set of pages is available -->
+        <button 
+          @click="changePageSet(1)" 
+          :disabled="currentPageSet >= pageSetLimit"
+          v-if="currentPageSet < pageSetLimit"
+        >»</button>
       </div>
     </div>
   </div>
@@ -51,6 +108,10 @@ export default {
       approvedCandidates: [],
       notApprovedCandidates: [],
       searchQuery: '',
+      pageSize: 20,
+      currentPage: 1,
+      currentPageSet: 0,
+      pageSetSize: 10,
       activeTab: 'Selected',
       currentSort: 'name',
       currentSortDir: 'asc',
@@ -59,6 +120,32 @@ export default {
     };
   },
   computed: {
+    pageSetLimit() {
+      return Math.ceil(this.totalPages / this.pageSetSize) - 1;
+      },
+      visiblePages() {
+      let pages = [];
+      let startPage = this.currentPageSet * this.pageSetSize + 1;
+      let endPage = startPage + this.pageSetSize - 1;
+
+      // Adjust the range if it goes beyond the total pages
+      if (endPage > this.totalPages) {
+        endPage = this.totalPages;
+      }
+
+      for (let i = startPage; i <= endPage; i++) {
+        pages.push(i);
+      }
+      return pages;
+    },
+    paginatedCandidates() {
+    const start = (this.currentPage - 1) * this.pageSize;
+    const end = start + this.pageSize;
+    return this.sortedCandidates.slice(start, end);
+    },
+    totalPages() {
+      return Math.ceil(this.sortedCandidates.length / this.pageSize);
+    },
     sortedCandidates() {
       return this.sortCandidates(
         this.activeTab === 'Selected'
@@ -74,6 +161,30 @@ export default {
     },
   },
   methods: {
+    setActiveTab(tab) {
+      this.activeTab = tab;
+      this.currentPage = 1; // Reset page to 1 when tab changes
+      this.currentPageSet = 0; // Also reset the current page set
+    },
+    changePage(page) {
+      this.currentPage = page;
+      // Automatically update the page set when the page changes
+      let newSet = Math.floor((this.currentPage - 1) / this.pageSetSize);
+      if (newSet !== this.currentPageSet) {
+        this.currentPageSet = newSet;
+      }
+    },
+    changePageSet(direction) {
+      // Calculate the new page set
+      this.currentPageSet += direction;
+      
+      // Update the current page to the first page of the new set
+      if (direction === 1) {
+        this.changePage(this.currentPageSet * this.pageSetSize + 1);
+      } else {
+        this.changePage((this.currentPageSet + 1) * this.pageSetSize);
+      }
+    },
     toggleDarkMode() {
       this.isDarkMode = !this.isDarkMode;
     },
@@ -284,4 +395,30 @@ tbody tr:hover {
 .dark-mode .title {
   color: #f4f4f9; /* Light color for the text in dark mode */
 }
+
+.pagination-controls {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.pagination-controls button {
+  background-color: transparent;
+  border: 1px solid #007aff;
+  color: #007aff;
+  margin: 0 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.pagination-controls button.active {
+  background-color: #007aff;
+  color: white;
+}
+
+.pagination-controls button:hover:not(.active) {
+  background-color: #e7f0fd;
+}
+
 </style>
