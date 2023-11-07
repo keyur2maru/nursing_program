@@ -421,4 +421,115 @@ tbody tr:hover {
   background-color: #e7f0fd;
 }
 
+@media (max-width: 768px) {
+  /* Title Styling */
+  .title {
+    font-size: 1.5rem; /* Decrease the font size */
+    text-align: center; /* Center the title */
+    margin-top: 1rem; /* Add top margin for spacing */
+    margin-bottom: 1rem; /* Add bottom margin for spacing */
+  }
+
+  /* Tab Button Styling */
+  .tab-buttons {
+    display: flex; /* Display the buttons in a row */
+    flex-wrap: wrap; /* Allow the buttons to wrap to the next line */
+    justify-content: center; /* Center the buttons */
+  }
+
+  .tab-buttons button {
+    margin: 0.5rem; /* Add margin to each button */
+  }
+
+  /* Search Bar Styling */
+  .search-bar {
+    margin: 1rem 0; /* Add margin to the search bar */
+  }
+
+  /* Pagination Controls Styling */
+  .pagination-controls {
+    flex-wrap: wrap; /* Allow the buttons to wrap to the next line */
+  }
+
+  .pagination-controls button {
+    margin: 0.5rem 0; /* Add margin to each button */
+  }
+
+  /* Candidate Table Styling */
+  .candidates {
+    overflow-x: auto; /* Allow horizontal scrolling */
+  }
+
+  table {
+    width: 1000px; /* Set a fixed width for the table */
+  }
+
+  th, td {
+    font-size: 0.9rem; /* Decrease the font size for each cell */
+  }
+
+  th:first-child, td:first-child {
+    min-width: 200px; /* Set a larger minimum width for the first cell */
+  }
+
+  th:last-child, td:last-child {
+    min-width: 150px; /* Set a smaller minimum width for the last cell */
+  }
+
+  /* Dark Mode Styling */
+  .dark-mode .tab-buttons button {
+    margin: 0.5rem; /* Add margin to each button */
+  }
+
+  .dark-mode .pagination-controls button {
+    margin: 0.5rem 0; /* Add margin to each button */
+  }
+
+  .dark-mode table {
+    width: 100%; /* Set the table width to 100% */
+  }
+
+  .dark-mode th, .dark-mode td {
+    min-width: 0; /* Remove the minimum width */
+  }
+
+  .dark-mode th:first-child, .dark-mode td:first-child {
+    min-width: 0; /* Remove the minimum width */
+  }
+
+  .dark-mode th:last-child, .dark-mode td:last-child {
+    min-width: 0; /* Remove the minimum width */
+  }
+
+  .dark-mode .pagination-controls {
+    flex-wrap: wrap; /* Allow the buttons to wrap to the next line */
+    justify-content: center; /* Center the buttons */
+  }
+
+  .dark-mode .pagination-controls button {
+    margin: 0 0.5rem; /* Add margin to each button */
+  }
+
+  .dark-mode .candidates {
+    overflow-x: auto; /* Allow horizontal scrolling */
+  }
+
+  .dark-mode table {
+    width: 1000px; /* Set a fixed width for the table */
+  }
+
+  .dark-mode th, .dark-mode td {
+    min-width: 100px; /* Set a minimum width for each cell */
+  }
+
+  .dark-mode th:first-child, .dark-mode td:first-child {
+    min-width: 200px; /* Set a larger minimum width for the first cell */
+  }
+
+  .dark-mode th:last-child, .dark-mode td:last-child {
+    min-width: 150px; /* Set a smaller minimum width for the last cell */
+  }
+
+  /* Other styles */
+}
 </style>
