@@ -422,12 +422,24 @@ tbody tr:hover {
 }
 
 @media (max-width: 768px) {
+  * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+
+  .title-container {
+    text-align: center; /* Centers the title */
+    margin-top: 0; /* Adds space at the top */
+    padding-top: 3rem; /* Adds space at the top */
+    padding-bottom: 0; /* Adds space at the bottom */
+    margin-bottom: 0; /* Adds space at the bottom */
+  }
+
   /* Title Styling */
   .title {
-    font-size: 1.5rem; /* Decrease the font size */
+    font-size: 1.3rem; /* Decrease the font size */
     text-align: center; /* Center the title */
-    margin-top: 1rem; /* Add top margin for spacing */
-    margin-bottom: 1rem; /* Add bottom margin for spacing */
   }
 
   /* Tab Button Styling */
